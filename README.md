@@ -1,6 +1,5 @@
 <h1 style="display: flex; align-items: center;">
     <span style="font-size: 25px; margin-right: 20px;">PAULO VITOR CARDOSO</span>
-    <img style="width: 60px; vertical-align: middle;" src="https://github.com/Paulovittor/hello-world/blob/main/imagem/PURPGGLE.png" alt="Imagem">
 </h1>
 <p>
   Aprendiz de Desenvolvimento FullStack Web e Mobile em Manaus-AM e graduando em Análise e Desenvolvimento de sistemas pela Faculdade Martha Falcão. Estou em transição da área administrativa para a de desenvolvimento e como um bom aluno iniciante, fiz meu primeiro "Hello World" assistindo a aula de HTML e CSS do professor Gustavo Guanabara e desde lá, estou em eterno aprendizado. <br>
