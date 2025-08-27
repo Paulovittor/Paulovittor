@@ -2,8 +2,9 @@
     <span style="font-size: 25px; margin-right: 20px;">PAULO VITOR CARDOSO</span>
 </h1>
 <p>
-  Estudante de Desenvolvimento Web e Mobile em Manaus-AM e graduando em Análise e Desenvolvimento de sistemas pela Faculdade Martha Falcão. Estou em transição da área administrativa para a de desenvolvimento e como um bom aluno iniciante, fiz meu primeiro "Hello World" assistindo a aula de HTML e CSS do professor Gustavo Guanabara e desde lá, estou em eterno aprendizado. <br>
-    Sou apaixonado por música, livros, filmes, tecnologia o que me dá uma mente que está em constante criatividade. 💜
+    Sou desenvolvedor com experiência em projetos freelance, atuando na criação de soluções Web e Mobile modernas e funcionais. Tenho sólida base em desenvolvimento e estou sempre em busca de aprimorar minhas habilidades, explorando novas tecnologias e boas práticas. Minha formação acadêmica e minhas experiências práticas me permitem unir organização, criatividade e visão estratégica para entregar resultados de qualidade. Além da tecnologia, sou apaixonado por música, livros e cinema, o que amplia minha criatividade e me inspira a inovar em cada projeto.
+
+🚀 Aberto a novas oportunidades para crescer como desenvolvedor e contribuir em projetos desafiadores.
 </p>
  
  &nbsp;
